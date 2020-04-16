@@ -1,0 +1,9 @@
+print("darpan")
+x=8
+y=6
+a=x+y
+print(a)
+print(a)
+print(a)
+print(a)
+print(a)
